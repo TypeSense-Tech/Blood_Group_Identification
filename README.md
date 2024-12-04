@@ -45,10 +45,26 @@ Processed Image: Morphologically enhanced image with key features.
 Predicted Blood Type: Final result based on the image analysis.
 
 
-# Conclusion
-The system combines Django's secure backend with OpenCV's advanced image processing to provide accurate blood type predictions.
-It offers a user-friendly experience for both personal and medical use.
-Ensures data security and enhances accessibility to blood typing information.
+# Site Overview
+-Home Page
+![Screenshot 2024-11-08 151220](https://github.com/user-attachments/assets/e92b934b-fb06-4f59-a0c3-d6b96fb9f9fa)
+
+-SignUp Page
+![Screenshot 2024-11-08 144146](https://github.com/user-attachments/assets/36df3928-47f1-4e9a-ab40-4cccbc5e9ee4)
+
+-LogIn Page
+![Screenshot 2024-11-08 144219](https://github.com/user-attachments/assets/401b334e-2f38-4b8a-8190-f8d5015f3bd8)
+
+-Profile Page
+![Screenshot 2024-11-08 144247](https://github.com/user-attachments/assets/fe83aab4-56fd-4404-b749-9c6f8d8e1749)
+
+-Final Output
+![Screenshot 2024-11-25 134840](https://github.com/user-attachments/assets/310d4890-e524-4783-b6f0-cdf17f9742cf)
+
+
+# PPT (For Referance)
+[BlooD group identification.pdf](https://github.com/user-attachments/files/18005618/BlooD.group.identification.pdf)
+
 
 # How to Run the Project
 -Clone the repository:
@@ -61,6 +77,10 @@ Ensures data security and enhances accessibility to blood typing information.
  python manage.py runserver
  Access the application at http://127.0.0.1:8000.
 
+# Conclusion
+The system combines Django's secure backend with OpenCV's advanced image processing to provide accurate blood type predictions.
+It offers a user-friendly experience for both personal and medical use.
+Ensures data security and enhances accessibility to blood typing information.
 
 # Acknowledgments
 Special thanks to the team and mentors for their guidance and support throughout the project.
