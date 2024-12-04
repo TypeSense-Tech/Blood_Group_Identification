@@ -53,8 +53,10 @@ Ensures data security and enhances accessibility to blood typing information.
 # How to Run the Project
 -Clone the repository:
  git clone <repository-url>
+
 -Install dependencies:
  pip install -r requirements.txt
+
 -Run the server:
  python manage.py runserver
  Access the application at http://127.0.0.1:8000.
